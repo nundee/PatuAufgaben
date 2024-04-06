@@ -1,5 +1,6 @@
 {
-    "python.defaultInterpreterPath": "C:/CAMEO/CAMEO_Cumulus/CommonComponents/.venv/Scripts/python",
+    //"python.defaultInterpreterPath": "C:/CAMEO/CAMEO_Cumulus/CommonComponents/.venv/Scripts/python",
+    "python.defaultInterpreterPath": "~/sources/jupyter/bin/python",
     "files.associations": {
         "openapi-generator-cli": "python",
         "array": "cpp",
